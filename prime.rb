@@ -1,6 +1,3 @@
-# Add  code here!
-
-#max number that needs check if paramter
 def prime? (num)
   
       if ( num <= 1 )
