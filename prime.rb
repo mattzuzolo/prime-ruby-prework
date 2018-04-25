@@ -17,29 +17,4 @@ def prime? (num)
       return true
 
 
-end #end method
-
-
-
-
-
-
-  # if num < 0
-  #   return false
-  # end
-  
-  # counter = 2.0
-  
-  # loop do 
-  
-  #   if num % counter == 0
-  #       return false
-  #   # else 
-  #   #   return true
-  #   end  
-    
-    
-    
-  #   counter += 1.0
-  # end
-  
+end
